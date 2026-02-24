@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Factor: x^2 + 5x + 6",
+    "options": [
+      "(x+2)(x+3)",
+      "(x+1)(x+6)",
+      "(x+2)(x+2)",
+      "(x+3)(x+3)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "F = ma. Can this be written as m * (v - u) / t ?",
+    "options": [
+      "Yes, because a = (v-u)/t",
+      "No, because mass cannot multiply",
+      "Yes, because force equals velocity",
+      "No, because acceleration has no formula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who created Python?",
+    "options": [
+      "Elon Musk",
+      "Guido van Rossum",
+      "Bill Gates",
+      "Dennis Ritchie"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If you have 3 apples and take away 2, how many do you have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": 2
+  }
+]
